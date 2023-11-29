@@ -19,7 +19,7 @@ We distinguish between the learning resources:
 [Windows Internals 7th Edition, Part 2](https://www.amazon.com/Windows-Internals-Part-2-7th/dp/0135462401)  
 
 ### Courses
-[Azius](https://azius.com/)
+[Azius](https://azius.com/)  
 [Codemachine](https://codemachine.com/training.html)  
 [OSR Seminars](https://www.osr.com/seminars/)  
 [Winsider](https://windows-internals.com/)  
@@ -28,6 +28,7 @@ We distinguish between the learning resources:
 [Open Security Training 2](https://p.ost2.fyi/courses)  
 
 ### Online Resources
+[Going Deep](https://walkingcat.github.io/ch9-index/?p=Shows_Going+Deep)  
 
 ## Windows Debugging & Troubleshooting
 
@@ -59,3 +60,4 @@ We distinguish between the learning resources:
 
 ### Online Resources
 [WPA / ETW Videos by Bruce Dawson](https://www.wintellectnow.com/Home/CourseLibrary)  
+[PerView Tutorial](https://walkingcat.github.io/ch9-index/?p=Series_PerfView-Tutorial)  
