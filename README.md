@@ -60,5 +60,5 @@ We distinguish between the learning resources:
 
 ### Online Resources
 [WPA / ETW Videos by Bruce Dawson](https://www.wintellectnow.com/Home/CourseLibrary)  
-[Blog series about WPA / ETW by Bruce Dawson](https://tinyurl.com/etwcentral)
+[Blog series about WPA / ETW by Bruce Dawson](https://tinyurl.com/etwcentral)  
 [PerView Tutorial](https://walkingcat.github.io/ch9-index/?p=Series_PerfView-Tutorial)  
