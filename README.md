@@ -40,7 +40,7 @@ We distinguish between the learning resources:
 ### Courses
 
 ### Online Courses
-[WinDbg by Pavel Yosifovich](https://training.trainsec.net/)  
+[Mastering WinDbg by Pavel Yosifovich](https://training.trainsec.net/mastering-windbg)  
 [WinDbg Fundamentals: User Mode by Pavel Yosifovich](https://www.pentesteracademy.com/course?id=52)  
 [WinDbg Fundamentals: Kernel Mode by Pavel Yosifovich](https://www.pentesteracademy.com/course?id=53)  
 
@@ -60,4 +60,5 @@ We distinguish between the learning resources:
 
 ### Online Resources
 [WPA / ETW Videos by Bruce Dawson](https://www.wintellectnow.com/Home/CourseLibrary)  
+[Blog series about WPA / ETW by Bruce Dawson](https://tinyurl.com/etwcentral)
 [PerView Tutorial](https://walkingcat.github.io/ch9-index/?p=Series_PerfView-Tutorial)  
