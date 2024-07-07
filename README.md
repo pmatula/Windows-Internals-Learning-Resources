@@ -1,9 +1,10 @@
-# Windows Internals / Debugging / Performance Learning Resources
+# Windows Internals Learning Resources
 
 A summary of learning resources in the categories: 
 * Windows Internals  
 * Windows Debugging and Troubleshooting  
 * Windows Performance  
+* Windows Programming
 
 We distinguish between the learning resources:  
 * Books  
@@ -27,7 +28,7 @@ We distinguish between the learning resources:
 
 ### Online Courses
 [Open Security Training 2](https://p.ost2.fyi/courses)  
-[Windows 11 Internals - by Pavel Yosifovich](https://www.pluralsight.com/paths/windows-11-internals)  
+[Windows 11 Internals - by Pavel Yosifovich](https://www.pluralsight.com/paths/windows-11-internals) 
 
 ### Online Resources
 [Going Deep](https://walkingcat.github.io/ch9-index/?p=Shows_Going+Deep)  
@@ -45,7 +46,8 @@ We distinguish between the learning resources:
 [Mastering WinDbg - by Pavel Yosifovich](https://training.trainsec.net/mastering-windbg)  
 [WinDbg Fundamentals: User Mode - by Pavel Yosifovich](https://www.pentesteracademy.com/course?id=52)  
 [WinDbg Fundamentals: Kernel Mode - by Pavel Yosifovich](https://www.pentesteracademy.com/course?id=53)  
-[SysInternals Toolkit - by Sami Laiho](https://www.pluralsight.com/paths/sysinternals-toolkit-skill)
+[SysInternals Toolkit - by Sami Laiho](https://www.pluralsight.com/paths/sysinternals-toolkit-skill)  
+[Sysinternals Tools Deep Dive - by Pavel Yosifovich](https://training.trainsec.net/sysinternals-tools-deep-dive-1)  
 
 ### Online Resources
 [Insight Engineering](https://github.com/DebugPrivilege/InsightEngineering/tree/main)  
@@ -65,3 +67,21 @@ We distinguish between the learning resources:
 ### Online Resources
 [Blog series about WPA / ETW - by Bruce Dawson](https://tinyurl.com/etwcentral)  
 [PerView Tutorial](https://walkingcat.github.io/ch9-index/?p=Series_PerfView-Tutorial)  
+
+## Windows Programming
+
+### Books
+[Windows 10 System Programming, Part 1 - by Pavel Yosifovich](https://leanpub.com/windows10systemprogramming)  
+[Windows 10 System Programming, Part 2 - by Pavel Yosifovich](https://leanpub.com/windows10systemprogrammingpart2)  
+[Windows Kernel Programming, Second Edition - by Pavel Yosifovich](https://leanpub.com/windowskernelprogrammingsecondedition)  
+[Windows Native API Programming - by Pavel Yosifovich](https://leanpub.com/windowsnativeapiprogramming)  
+
+### Courses
+[Writing WDF Drivers 1: Core Concepts](https://www.osr.com/seminars/wdf-drivers/)  
+[Developing Filter Manager Minifilters for Windows](https://www.osr.com/seminars/minifilters/)  
+
+### Online Courses
+[Windows Kernel/System Programming, x64 Architecture and Programming, COM Programming,... - by Pavel Yosifovich](https://training.trainsec.net/windows-internals-and-programming)  
+
+
+### Online Resources
