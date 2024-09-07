@@ -79,9 +79,9 @@ We distinguish between the learning resources:
 ### Courses
 [Writing WDF Drivers 1: Core Concepts](https://www.osr.com/seminars/wdf-drivers/)  
 [Developing Filter Manager Minifilters for Windows](https://www.osr.com/seminars/minifilters/)  
+[DriverEntry](https://driverentry.com.br/)  
 
 ### Online Courses
 [Windows Kernel/System Programming, x64 Architecture and Programming, COM Programming,... - by Pavel Yosifovich](https://training.trainsec.net/windows-internals-and-programming)  
-
 
 ### Online Resources
