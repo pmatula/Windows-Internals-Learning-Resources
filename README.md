@@ -29,6 +29,7 @@ We distinguish between the learning resources:
 ### Online Courses
 [Open Security Training 2](https://p.ost2.fyi/courses)  
 [Windows 11 Internals - by Pavel Yosifovich](https://www.pluralsight.com/paths/windows-11-internals) 
+[Mastering Windows Internals - by Grzegorz Tworek](https://gtworek.com/mastering-windows-internals)  
 
 ### Online Resources
 [Going Deep](https://walkingcat.github.io/ch9-index/?p=Shows_Going+Deep)  
